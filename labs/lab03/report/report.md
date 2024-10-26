@@ -36,7 +36,6 @@ babel-otherlangs: english
 mainfont: IBM Plex Serif
 romanfont: IBM Plex Serif
 sansfont: IBM Plex Sans
-monofont: IBM Plex Mono
 mathfont: STIX Two Math
 mainfontoptions: Ligatures=Common,Ligatures=TeX,Scale=0.94
 romanfontoptions: Ligatures=Common,Ligatures=TeX,Scale=0.94
